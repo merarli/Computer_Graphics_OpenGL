@@ -1,2 +1,2 @@
 # Computer_Graphics_OpenGL
-# Computer_Graphics_OpenGL
+c言語でOpenGL
