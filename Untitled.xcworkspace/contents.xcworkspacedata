@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:cg3-1/main2.hpp">
+   </FileRef>
+   <FileRef
+      location = "container:cg2-1-1/cg2-1-1.xcodeproj">
+   </FileRef>
+</Workspace>
